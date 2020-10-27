@@ -3,4 +3,4 @@
 ### Hi there, welcome to my Profile 👋
 
 <br>
-[Checkout my Portfolio here.](https://venkatr21.github.io/mywebsite/ "Venkat's Portfolio")
+![Checkout my Portfolio here.](https://venkatr21.github.io/mywebsite/ "Venkat's Portfolio")
