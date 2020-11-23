@@ -4,8 +4,7 @@
 
 <br>
 <a href="https://venkatr21.github.io/mywebsite/">Checkout my Portfolio here.
-<br>
-<br>
+
 ---
 
 <details open>
@@ -16,8 +15,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=venkatr21&hide=css,java,html&theme=tokyonight">
 </p>
 </details>
-<br>
-<br>
+
 ---
 
 <img src="https://komarev.com/ghpvc/?username=venkatr21">
