@@ -3,7 +3,7 @@
 ### Hi there, welcome to my Profile 👋
 
 <br>
-<a href="http://portfolio.venkatragavan.digital/">Checkout my Portfolio here </a>
+<a target="_blank" href="http://portfolio.venkatragavan.digital/">Checkout my Portfolio here </a>
 
 ---
 
