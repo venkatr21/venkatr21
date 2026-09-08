@@ -1,21 +1,6 @@
-![Home](https://github.com/venkatr21/venkatr21/blob/main/venkat.jpg)
+# Venkat Ragavan
 
-### Hi there, welcome to my Profile 👋
+Software engineer building reliable cloud and AI systems—and writing about how they work.
 
-<br>
-<a target="_blank" href="http://portfolio.venkatragavan.digital/">Checkout my Portfolio here </a>
-
----
-
-<details open>
- <summary><b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=venkatr21&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=venkatr21&hide=css,java,html&theme=tokyonight">
-</p>
-</details>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=venkatr21">
+- **[Portfolio](https://portfolio.venkatragavan.in)** — My work, engineering focus, and background.
+- **[Writing](https://blogs.venkatragavan.in)** — Practical notes on cloud architecture, AI, distributed systems, and reliability.
